@@ -21,3 +21,5 @@ URL - https://programmers.co.kr/learn/challenges
     약수의 합
 
     최대값과 최소값
+
+    짝수와 홀수
