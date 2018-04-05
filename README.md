@@ -19,3 +19,5 @@ URL - https://programmers.co.kr/learn/challenges
     나누어 떨어지는 숫자 배열
     
     약수의 합
+
+    최대값과 최소값
