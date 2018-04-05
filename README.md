@@ -27,3 +27,5 @@ URL - https://programmers.co.kr/learn/challenges
     스트링을 숫자로 바꾸기
 
     같은 숫자는 싫어
+
+    문자열 다루기 기본
