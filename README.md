@@ -25,3 +25,5 @@ URL - https://programmers.co.kr/learn/challenges
     짝수와 홀수
 
     스트링을 숫자로 바꾸기
+
+    같은 숫자는 싫어
