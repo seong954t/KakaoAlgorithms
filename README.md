@@ -35,3 +35,5 @@ URL - https://programmers.co.kr/learn/challenges
     수박수박수박수박수박수?
 
     자릿수더하기
+
+    x만큼 간격이 있는 n개의 숫자
