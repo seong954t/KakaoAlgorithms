@@ -49,3 +49,5 @@ URL - https://programmers.co.kr/learn/challenges
     역삼각형 출력하기
 
     핸드폰번호 가리기
+
+    평균구하기
