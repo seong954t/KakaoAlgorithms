@@ -47,3 +47,5 @@ URL - https://programmers.co.kr/learn/challenges
     딕셔너리 정렬
 
     역삼각형 출력하기
+
+    핸드폰번호 가리기
