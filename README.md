@@ -10,7 +10,7 @@ URL - https://programmers.co.kr/learn/challenges
 
     행렬의 덧셈
 
-    서울에서김서방찾기
+    울에서김서방찾기
 
     피보나치 수
 
@@ -41,3 +41,5 @@ URL - https://programmers.co.kr/learn/challenges
     가운데 글자 가져오기
 
     삼각형출력하기
+
+    최대공약수와 최소공배수
