@@ -51,3 +51,5 @@ URL - https://programmers.co.kr/learn/challenges
     핸드폰번호 가리기
 
     평균구하기
+
+    문자열 내 p와 y의 개수
