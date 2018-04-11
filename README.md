@@ -37,3 +37,5 @@ URL - https://programmers.co.kr/learn/challenges
     자릿수더하기
 
     x만큼 간격이 있는 n개의 숫자
+
+    가운데 글자 가져오기
