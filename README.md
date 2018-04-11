@@ -45,3 +45,5 @@ URL - https://programmers.co.kr/learn/challenges
     최대공약수와 최소공배수
 
     딕셔너리 정렬
+
+    역삼각형 출력하기
