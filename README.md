@@ -55,4 +55,7 @@ URL - https://programmers.co.kr/learn/challenges
     문자열 내 p와 y의 개수
 
 ### Level 2
+
     하사드수
+
+    자연수를 뒤집어 리스트로 만들기
