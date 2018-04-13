@@ -59,3 +59,5 @@ URL - https://programmers.co.kr/learn/challenges
     하사드수
 
     자연수를 뒤집어 리스트로 만들기
+
+    괄호 확인하기
