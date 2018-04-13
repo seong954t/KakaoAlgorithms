@@ -69,3 +69,5 @@ URL - https://programmers.co.kr/learn/challenges
     정수 내림차순으로 배치하기
 
     가장 긴 팰린드롬
+
+    최솟값 만들기
