@@ -61,3 +61,5 @@ URL - https://programmers.co.kr/learn/challenges
     자연수를 뒤집어 리스트로 만들기
 
     괄호 확인하기
+
+    소수 찾기
