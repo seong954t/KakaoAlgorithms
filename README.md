@@ -81,3 +81,7 @@ URL - https://programmers.co.kr/learn/challenges
     2016년
 
     콜라츠 추측
+
+### Level 3
+
+    야근 지수
