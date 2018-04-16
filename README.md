@@ -85,3 +85,5 @@ URL - https://programmers.co.kr/learn/challenges
 ### Level 3
 
     야근 지수
+
+    멀리 뛰기
