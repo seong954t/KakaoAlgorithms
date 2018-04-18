@@ -89,3 +89,5 @@ URL - https://programmers.co.kr/learn/challenges
     멀리 뛰기
 
     N개의 최소공배수
+
+    다음 큰 숫자
