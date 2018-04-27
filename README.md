@@ -115,3 +115,7 @@ URL - https://programmers.co.kr/learn/challenges
     줄 서는 방법
 
     2 x n 타일링
+
+### Level 6
+
+    과자 많이 먹기
