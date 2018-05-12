@@ -1,13 +1,15 @@
 def productMatrix(A, B):
     answer = []
-    x_range = len(A)
-    y_range = len(A[0])
-    for i in range(x_range):
+    A_x_range = len(A)
+    A_y_range = len(A[0])
+    B_y_range = len(B[0])
+    
+    for x in range(A_x_range):
         a_val = []
-        for j in range(x_range):
+        for y in range(B_y_range):
             val = 0
-            for k in range(y_range):
-                val += A[i][k]*B[k][j]
+            for idx in range(A_y_range):
+                val += A[x][idx]*B[idx][y]
             a_val.append(val)
         answer.append(a_val)
     return answer
