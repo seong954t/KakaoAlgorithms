@@ -1,6 +1,7 @@
 def jumpCase(num):
-    answer = 0
     a, b = 1, 2
+    if num == 1:
+        return a
     for i in range(3, num+1):
         a, b = b, a+b
     return b
