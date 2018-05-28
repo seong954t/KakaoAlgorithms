@@ -1,18 +1,26 @@
-def longest_palindrom(s):
-    # 함수를 완성하세요
-    if len(s) == 0:
-        return 0
-    elif len(s) == 1:
-        return 1
-    right = longest_palindrom(s[1:])
-    left = longest_palindrom(s[:-1])
-    mid = longest_palindrom(s[1:-1])
+def solution(s):
+    answer = 0
+    input_len = len(s)
+    palindrom = [[1 for i in range(input_len)] for j in range(input_len)]
+    for i in range(2, input_len, 2):
+        palindrom[i] = palindrom[i-2]
+        for j in range(i//2, input_len-i//2):
+            if s[j-i//2] == s[j+i//2]:
+                if palindrom[i-2][j] == i-1:
+                    palindrom[i][j] = palindrom[i-2][j]+2
     
-    if s[:1] == s[-1:]:
-        mid += 2
-    return max([right, left, mid])
-
-
-# 아래는 테스트로 출력해 보기 위한 코드입니다.
-print(longest_palindrom("토마토맛토마토"))
-print(longest_palindrom("토마토맛있어"))
+    for i in range(input_len-1):
+        if s[i] == s[i+1]:
+            palindrom[1][i] = 2
+    
+    for i in range(input_len-1):
+        if s[i] == s[i+1]:
+            palindrom[1][i] = 2
+    for i in range(3, input_len, 2):
+        palindrom[i] = palindrom[i-2]
+        for j in range((i-1)//2, input_len-((i-1)//2)-1):
+            if s[j-((i-1)//2)] == s[j+((i-1)//2)+1]:
+                if palindrom[i-2][j] == i-1:
+                    palindrom[i][j] = palindrom[i-2][j]+2
+    answer = [max(palindrom[input_len-1]), max(palindrom[input_len-2])]
+    return max(answer)
