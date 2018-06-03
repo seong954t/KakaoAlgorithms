@@ -3,6 +3,17 @@ Kakao Algorithms
 URL - https://programmers.co.kr/learn/challenges
 
 ### Level 1
+    
+    2016년
+
+    가운데 글자 가져오기
+
+    같은 숫자는 싫어
+
+    나누어 떨어지는 숫자 배열
+    
+-------------------- pre data --------------------
+### Level 1
 
     제일 작은 수 제거하기
 
@@ -25,8 +36,6 @@ URL - https://programmers.co.kr/learn/challenges
     짝수와 홀수
 
     스트링을 숫자로 바꾸기
-
-    같은 숫자는 싫어
 
     문자열 다루기 기본
 
@@ -77,8 +86,6 @@ URL - https://programmers.co.kr/learn/challenges
     이상한 문자만들기
 
     행렬의 곱셈
-
-    2016년
 
     콜라츠 추측
 
