@@ -11,7 +11,9 @@ URL - https://programmers.co.kr/learn/challenges
     같은 숫자는 싫어
 
     나누어 떨어지는 숫자 배열
-    
+
+    문자열 내 마음대로 정렬하기
+
 -------------------- pre data --------------------
 ### Level 1
 
@@ -38,8 +40,6 @@ URL - https://programmers.co.kr/learn/challenges
     스트링을 숫자로 바꾸기
 
     문자열 다루기 기본
-
-    문자열 내 마음대로 정렬하기
 
     수박수박수박수박수박수?
 
