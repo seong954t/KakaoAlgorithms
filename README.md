@@ -18,6 +18,12 @@ URL - https://programmers.co.kr/learn/challenges
 
     문자열 내림차순으로 배치하기
 
+    문자열 다루기 기본
+
+    서울에서김서방찾기
+
+    수박수박수박수박수박수?
+
 -------------------- pre data --------------------
 ### Level 1
 
