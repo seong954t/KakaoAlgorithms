@@ -20,6 +20,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     문자열 다루기 기본
 
+    문자열을 정수로 바꾸기
+
     서울에서김서방찾기
 
     수박수박수박수박수박수?
