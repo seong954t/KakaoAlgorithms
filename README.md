@@ -28,6 +28,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     약수의 합
 
+    자릿수더하기
+
 -------------------- pre data --------------------
 ### Level 1
 
