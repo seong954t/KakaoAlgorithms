@@ -30,6 +30,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     자릿수더하기
 
+    정수 제곱근 판별
+
 -------------------- pre data --------------------
 ### Level 1
 
