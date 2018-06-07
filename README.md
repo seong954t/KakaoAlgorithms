@@ -35,7 +35,7 @@ URL - https://programmers.co.kr/learn/challenges
     제일 작은 수 제거하기
 
     직사각형 별찍기
-
+    
     짝수와 홀수
 
 -------------------- pre data --------------------
