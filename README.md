@@ -32,6 +32,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     정수 제곱근 판별
 
+    제일 작은 수 제거하기
+
 -------------------- pre data --------------------
 ### Level 1
 
