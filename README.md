@@ -38,6 +38,8 @@ URL - https://programmers.co.kr/learn/challenges
     
     짝수와 홀수
 
+    최대값과 최소값
+    
 -------------------- pre data --------------------
 ### Level 1
 
