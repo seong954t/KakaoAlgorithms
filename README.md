@@ -8,7 +8,11 @@ URL - https://programmers.co.kr/learn/challenges
 
     가운데 글자 가져오기
 
+    가장 긴 팰린드롬
+
     같은 숫자는 싫어
+
+    괄호 확인하기
 
     나누어 떨어지는 숫자 배열
 
@@ -65,7 +69,7 @@ URL - https://programmers.co.kr/learn/challenges
     예산
 
     지형 편집
-    
+
 -------------------- pre data --------------------
 ### Level 1
 
