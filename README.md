@@ -42,6 +42,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     최대공약수와 최소공배수
 
+    평균구하기
+
 -------------------- pre data --------------------
 ### Level 1
 
