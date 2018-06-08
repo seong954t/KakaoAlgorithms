@@ -49,6 +49,8 @@ URL - https://programmers.co.kr/learn/challenges
     핸드폰번호 가리기
 
     행렬의 덧셈
+
+    x만큼 간격이 있는 n개의 숫자
     
 -------------------- pre data --------------------
 ### Level 1
