@@ -16,6 +16,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     나누어 떨어지는 숫자 배열
 
+    두 정수 사이의 합
+
     문자열 내 마음대로 정렬하기
 
     문자열 내 p와 y의 개수
