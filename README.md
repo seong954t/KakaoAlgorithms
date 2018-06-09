@@ -40,6 +40,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     자릿수더하기
 
+    자연수를 뒤집어 리스트로 만들기
+
     정수 제곱근 판별
 
     제일 작은 수 제거하기
