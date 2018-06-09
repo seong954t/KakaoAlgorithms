@@ -36,6 +36,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     약수의 합
 
+    이상한 문자만들기
+
     자릿수더하기
 
     정수 제곱근 판별
