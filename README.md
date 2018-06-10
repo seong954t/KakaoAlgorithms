@@ -42,6 +42,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     자연수를 뒤집어 리스트로 만들기
 
+    정수 내림차순으로 배치하기
+
     정수 제곱근 판별
 
     제일 작은 수 제거하기
