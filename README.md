@@ -54,8 +54,10 @@ URL - https://programmers.co.kr/learn/challenges
 
     최대공약수와 최소공배수
 
+    최솟값 만들기
+
     콜라츠 추측
-    
+
     평균구하기
 
     피보나치 수
