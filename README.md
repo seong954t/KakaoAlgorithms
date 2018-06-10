@@ -68,6 +68,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     핸드폰번호 가리기
 
+    행렬의 곱셈
+
     행렬의 덧셈
 
     JadenCase문자열 만들기
