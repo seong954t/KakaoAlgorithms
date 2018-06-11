@@ -76,6 +76,10 @@ URL - https://programmers.co.kr/learn/challenges
 
     x만큼 간격이 있는 n개의 숫자
 
+### Level 2
+
+    가장 큰 정사각형 찾기
+
 ### 2017 썸머코딩
 
     점프와 순간 이동
