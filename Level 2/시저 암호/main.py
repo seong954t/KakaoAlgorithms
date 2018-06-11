@@ -1,4 +1,4 @@
-def caesar(s, n):
+def solution(s, n):
     result = ""
     n %= 26
     for c in s:
@@ -15,8 +15,3 @@ def caesar(s, n):
                 ord_val += 64
         result += chr(ord_val)
     return result
-    # 주어진 문장을 암호화하여 반환하세요.
-
-
-# 실행을 위한 테스트코드입니다.
-print('s는 "a B z", n은 4인 경우: ' + caesar("a B z", 4))
