@@ -82,6 +82,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     다음 큰 숫자
 
+    땅따먹기 게임
+
 ### 2017 썸머코딩
 
     점프와 순간 이동
