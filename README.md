@@ -125,6 +125,7 @@ URL - https://programmers.co.kr/learn/challenges
     지형 편집
 
 -------------------- pre data --------------------
+
 ### Level 1
 
     딕셔너리 정렬
@@ -133,47 +134,13 @@ URL - https://programmers.co.kr/learn/challenges
 
     역삼각형 출력하기
 
-### Level 3
-
-    야근 지수
-
-    멀리 뛰기
-
-    N개의 최소공배수
-
-    다음 큰 숫자
-
-    시저 암호
-
 ### Level 4
-    
-    최고의 집합
 
     공항 건설하기
-
-    숫자의 표현
-
-    가장 큰 정사각형 찾기
-
-    땅따먹기 게임
-
-### Level 5
-
-    124나라의 숫자
-
-    하노이의 탑
-
-    줄 서는 방법
-
-    2 x n 타일링
 
 ### Level 6
 
     과자 많이 먹기
-
-    거스름돈
-
-    3 x n 타일링
 
 ### Level 8
 
