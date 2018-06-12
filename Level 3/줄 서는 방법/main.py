@@ -1,4 +1,4 @@
-def setAlign(n, k):
+def solution(n, k):
     prev = [i for i in range(1, n+1)]
     answer = []
     idx = 0
@@ -17,7 +17,3 @@ def setAlign(n, k):
         fac //= idx
         idx -= 1
     return answer+prev
-
-
-# 아래는 테스트로 출력해 보기 위한 코드입니다.
-print(setAlign(10,2388416))
