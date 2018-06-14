@@ -90,7 +90,7 @@ URL - https://programmers.co.kr/learn/challenges
 
     시저 암호
 
-    야근 지수 TODO :: 효율성 테스트
+    야근 지수
 
     최고의 집합
 
