@@ -104,7 +104,7 @@ URL - https://programmers.co.kr/learn/challenges
 
     124나라의 숫자
 
-    거스름돈 TODO :: 효율성 테스트
+    거스름돈
 
     줄 서는 방법
 
