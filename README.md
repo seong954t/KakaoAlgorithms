@@ -112,6 +112,10 @@ URL - https://programmers.co.kr/learn/challenges
 
 ### Level 4
 
+    선입선출 스케줄링 TODO :: 효율성 테스트
+
+    올바른 괄호
+
 ### 2017 썸머코딩
 
     점프와 순간 이동
