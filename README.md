@@ -118,11 +118,11 @@ URL - https://programmers.co.kr/learn/challenges
 
 ### 2017 썸머코딩
 
-    점프와 순간 이동
+    점프와 순간 이동 (Easy)
 
-    스티커 모으기(2)
+    스티커 모으기(2) (Hard)
 
-    소수 만들기
+    소수 만들기 (Easy)
 
 ### 2018 썸머코딩
 
