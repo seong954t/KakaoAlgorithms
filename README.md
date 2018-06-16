@@ -112,9 +112,9 @@ URL - https://programmers.co.kr/learn/challenges
 
 ### Level 4
 
-    선입선출 스케줄링 TODO :: 효율성 테스트 row 빠르게 구하기
+    선입선출 스케줄링 (Hard) TODO :: 효율성 테스트 row 빠르게 구하기
 
-    올바른 괄호
+    올바른 괄호 (Hard)
 
 ### 2017 썸머코딩
 
