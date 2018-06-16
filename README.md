@@ -142,7 +142,7 @@ URL - https://programmers.co.kr/learn/challenges
 
 ### 찾아라 프로그래밍 마에스터
 
-    폰켓몬
+    폰켓몬 (Easy)
 
 -------------------- pre data --------------------
 
