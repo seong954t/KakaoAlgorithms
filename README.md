@@ -126,13 +126,13 @@ URL - https://programmers.co.kr/learn/challenges
 
 ### 2018 썸머코딩
 
-    숫자게임
+    숫자게임 (Medium)
 
-    영어 끝말잇기
+    영어 끝말잇기 (Easy)
 
-    예산
+    예산 (Easy)
 
-    지형 편집
+    지형 편집 (Hard)
 
 ### 2017 팁스타운
 
