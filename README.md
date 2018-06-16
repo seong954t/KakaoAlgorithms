@@ -134,6 +134,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     예상 대진표
 
+    짝지어 제거하기
+
 ### 찾아라 프로그래밍 마에스터
 
     폰켓몬
