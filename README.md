@@ -136,9 +136,9 @@ URL - https://programmers.co.kr/learn/challenges
 
 ### 2017 팁스타운
 
-    예상 대진표
+    예상 대진표 (Easy)
 
-    짝지어 제거하기
+    짝지어 제거하기 (Medium)
 
 ### 찾아라 프로그래밍 마에스터
 
