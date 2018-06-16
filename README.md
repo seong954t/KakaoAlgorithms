@@ -78,37 +78,37 @@ URL - https://programmers.co.kr/learn/challenges
 
 ### Level 2
 
-    가장 큰 정사각형 찾기
+    가장 큰 정사각형 찾기 (Easy)
 
-    다음 큰 숫자
+    다음 큰 숫자 (Easy)
 
-    땅따먹기 게임
+    땅따먹기 게임 (Easy)
 
-    멀리 뛰기
+    멀리 뛰기 (Easy)
 
-    숫자의 표현
+    숫자의 표현 (Easy)
 
-    시저 암호
+    시저 암호 (Easy)
 
-    야근 지수
+    야근 지수 (Easy)
 
-    최고의 집합
+    최고의 집합 (Easy)
 
-    N개의 최소공배수
+    N개의 최소공배수 (Easy)
 
 ### Level 3
 
-    2 x n 타일링
+    2 x n 타일링 (Medium)
 
-    3 x n 타일링
+    3 x n 타일링 (Medium)
 
-    124나라의 숫자
+    124나라의 숫자 (Medium)
 
-    거스름돈
+    거스름돈 (Medium)
 
-    줄 서는 방법
+    줄 서는 방법 (Medium)
 
-    하노이의 탑
+    하노이의 탑 (Medium)
 
 ### Level 4
 
