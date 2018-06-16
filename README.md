@@ -120,6 +120,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     점프와 순간 이동
 
+    소수 만들기
+
 ### 2018 썸머코딩
 
     숫자게임
