@@ -120,6 +120,8 @@ URL - https://programmers.co.kr/learn/challenges
 
     점프와 순간 이동
 
+    스티커 모으기(2)
+
     소수 만들기
 
 ### 2018 썸머코딩
